@@ -63,25 +63,7 @@ I’m a **Data Analyst** who transforms raw numbers into clear, actionable insig
 
 ---
 
-### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-tech123&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-tech123&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-tech123&theme=tokyonight" alt="streak graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-tech123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
 
 <div align="center">
   <a href="https://m-tech123.github.io/MS-ELSAYED.github.io/">
