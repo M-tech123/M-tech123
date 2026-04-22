@@ -26,10 +26,13 @@
 
 I’m a **Data Analyst** who turn your sales, finance, and operational data into dashboards and reports that help managers make faster, better decisions.
 
-**🔭 I'm currently working on: Building automated BI dashboards and efficient data pipelines.
-**📊 I specialize in: Uncovering patterns and solving real-world business challenges.
-**🤝 I'm looking to collaborate on: Open-source data analysis projects and advanced SQL optimizations.
-**🌱 Learning: Advanced SQL optimization, BI tools (Excel, Power BI, Tableau), and Python for data analysis.
+**🔭 I'm currently working on:** Building automated BI dashboards and efficient data pipelines.
+
+**📊 I specialize in:** Uncovering patterns and solving real-world business challenges.
+
+**🤝 I'm looking to collaborate on:** Open-source data analysis projects and advanced SQL optimizations.
+
+**🌱 Learning:** Advanced SQL optimization, BI tools *(Excel, Power BI, Tableau)*, and Python for data analysis.
 ---
 
 ### 🛠️ Tech Stack & Tools
