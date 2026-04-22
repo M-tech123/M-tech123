@@ -24,7 +24,7 @@
 
 > *"I don’t just deliver reports — I provide solutions."*
 
-I’m a **Data Analyst** who transforms raw numbers into clear, actionable insights. My goal is to help businesses identify hidden trends, optimize processes, and grow through evidence-based strategies.
+I’m a **Data Analyst** who turn your sales, finance, and operational data into dashboards and reports that help managers make faster, better decisions.
 
 * 🔭 **I’m currently working on:** Building automated BI dashboards and efficient data pipelines.
 * 📊 **I specialize in:** Uncovering patterns and solving real-world business challenges.
